@@ -1,0 +1,15 @@
+nav ul li {
+    display:inline;
+}
+nav ul li.center {
+    list-style-type: none;
+    text-align: left;
+  }
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+.title {
+    font-family: Roboto;
+} 
